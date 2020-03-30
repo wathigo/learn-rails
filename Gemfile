@@ -4,7 +4,7 @@ gem 'rails', '>= 5.1.2'
 # Rails defaults
 gem 'sqlite3'
 gem 'bootsnap', '1.1.2', require: false
-gem 'puma', '~> 3.7'
+gem 'puma', '~> 3.12'
 gem 'sass-rails', '~> 5.0'
 gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.2'
